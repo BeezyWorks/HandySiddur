@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="taameiTypeface">TaameyFrankCLM.ttf</string>
+    <string name="longitudeKey">longitudeString</string>
+    <string name="latitudeKey">latiduteString</string>
+    <string name="elevationKey">elevationString</string>
+</resources>
